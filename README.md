@@ -1,5 +1,5 @@
 # 🖼️ PDF to Image Converter (PyMuPDF)
-This project is a command-line tool thatconverts PDF files to images (png format) using PyMuPDF.
+This project is a command-line tool that converts PDF files to images (png format) using PyMuPDF.
 
 ## Project Summary
 The purpose of this project is to minimize the effort to convert PDF files to images.
